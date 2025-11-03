@@ -1,2 +1,2 @@
 # Data_Science_Projects
-Using Python, Machine Learning and Data Visualization tool
+Using Python, Machine Learning, SQL Server and Data Visualization tool
