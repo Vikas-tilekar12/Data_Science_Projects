@@ -1,2 +1,2 @@
 # Data_Science_Projects
-Using Python, Machine Learning, SQL Server and Data Visualization tool
+Applied data preprocessing, EDA, and machine learning algorithms to build predictive models and extract business insights from real-world datasets.
